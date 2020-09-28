@@ -21,6 +21,11 @@ const Assad = {
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RafaAssad&hide=stars&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaAssad&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+You can find me on [![LinkedIn][2.2]][2].
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2]: https://www.linkedin.com/in/rafaelassad/
 <!--
 **RafaAssad/RafaAssad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
