@@ -14,7 +14,7 @@ let Assad = {
                2: "Sports",
                3: "Cooking"
              },
- lookingFor: "help the environment through technology"
+ lookingFor: "be socially and environmentally responsible"
 }
 ```
 
