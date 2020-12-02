@@ -5,8 +5,8 @@
 ```javascript
 let Assad = {
   academicDegree: "Civil Engineer",
-  code: [Javascript, HTML, CSS, Shell],
-  tools: [React, Redux, Node, Jest, Cypress],
+  code: [Javascript, Node, HTML, CSS, Shell],
+  tools: [React, Redux, Express, Jest, Cypress],
   learning: ["mySQL", "MongoDB"],
   school: ["Trybe"]
   hobbies: {
