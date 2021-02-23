@@ -7,7 +7,8 @@ let Assad = {
   academicDegree: "Civil Engineer",
   code: [Javascript, Node, C#, HTML, CSS, Shell],
   tools: [React, Redux, .NET, Express, Jest, Cypress],
-  learning: ["mySQL", "MongoDB"],
+  dataBase: [MySQL, mongoDB]
+  learning: ["Python"],
   school: ["Trybe"]
   hobbies: {
                1: "Gaming",
