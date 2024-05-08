@@ -8,8 +8,7 @@ let Assad = {
   code: [Javascript, Node, C#, HTML, CSS, Shell],
   tools: [React, Redux, .NET, Express, Jest, Cypress],
   dataBase: [MySQL, mongoDB]
-  learning: ["Python"],
-  school: ["Trybe"]
+  learning: ["Flutter"],
   hobbies: {
                1: "Gaming",
                2: "Sports",
